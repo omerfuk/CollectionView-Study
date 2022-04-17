@@ -13,6 +13,7 @@
 		DE5E0100280C0700001EB806 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE5E00FE280C0700001EB806 /* Main.storyboard */; };
 		DE5E0102280C0703001EB806 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE5E0101280C0703001EB806 /* Assets.xcassets */; };
 		DE5E0105280C0703001EB806 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE5E0103280C0703001EB806 /* LaunchScreen.storyboard */; };
+		DE5E010D280C10AE001EB806 /* CollectionViewHucre.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5E010C280C10AE001EB806 /* CollectionViewHucre.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DE5E0101280C0703001EB806 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE5E0104280C0703001EB806 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE5E0106280C0703001EB806 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE5E010C280C10AE001EB806 /* CollectionViewHucre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewHucre.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DE5E00F8280C0700001EB806 /* AppDelegate.swift */,
 				DE5E00FA280C0700001EB806 /* SceneDelegate.swift */,
 				DE5E00FC280C0700001EB806 /* ViewController.swift */,
+				DE5E010C280C10AE001EB806 /* CollectionViewHucre.swift */,
 				DE5E00FE280C0700001EB806 /* Main.storyboard */,
 				DE5E0101280C0703001EB806 /* Assets.xcassets */,
 				DE5E0103280C0703001EB806 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				DE5E00FD280C0700001EB806 /* ViewController.swift in Sources */,
 				DE5E00F9280C0700001EB806 /* AppDelegate.swift in Sources */,
+				DE5E010D280C10AE001EB806 /* CollectionViewHucre.swift in Sources */,
 				DE5E00FB280C0700001EB806 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
